@@ -1,0 +1,10 @@
+.heading {
+    color:green;
+    font-weight:bold;
+    text-decoration: underline;
+}
+
+.image {
+    height:auto;
+    width:500px;
+}
